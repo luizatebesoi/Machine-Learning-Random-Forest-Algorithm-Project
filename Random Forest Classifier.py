@@ -1,5 +1,6 @@
 # In this project we want to predict based on a given data set if a loan will be repaid or not. 
 # The dependant variable is 'not.fully.paid'
+# The code needs to be run with Jupyter Notebook
 
 # Importing the libraries
 import pandas as pd
